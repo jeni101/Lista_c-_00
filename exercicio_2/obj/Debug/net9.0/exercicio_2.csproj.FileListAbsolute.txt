@@ -1,0 +1,15 @@
+/Users/jenifercandidogomes/Desktop/Lista_00/exercicio_2/bin/Debug/net9.0/exercicio_2
+/Users/jenifercandidogomes/Desktop/Lista_00/exercicio_2/bin/Debug/net9.0/exercicio_2.deps.json
+/Users/jenifercandidogomes/Desktop/Lista_00/exercicio_2/bin/Debug/net9.0/exercicio_2.runtimeconfig.json
+/Users/jenifercandidogomes/Desktop/Lista_00/exercicio_2/bin/Debug/net9.0/exercicio_2.dll
+/Users/jenifercandidogomes/Desktop/Lista_00/exercicio_2/bin/Debug/net9.0/exercicio_2.pdb
+/Users/jenifercandidogomes/Desktop/Lista_00/exercicio_2/obj/Debug/net9.0/exercicio_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jenifercandidogomes/Desktop/Lista_00/exercicio_2/obj/Debug/net9.0/exercicio_2.AssemblyInfoInputs.cache
+/Users/jenifercandidogomes/Desktop/Lista_00/exercicio_2/obj/Debug/net9.0/exercicio_2.AssemblyInfo.cs
+/Users/jenifercandidogomes/Desktop/Lista_00/exercicio_2/obj/Debug/net9.0/exercicio_2.csproj.CoreCompileInputs.cache
+/Users/jenifercandidogomes/Desktop/Lista_00/exercicio_2/obj/Debug/net9.0/exercicio_2.sourcelink.json
+/Users/jenifercandidogomes/Desktop/Lista_00/exercicio_2/obj/Debug/net9.0/exercicio_2.dll
+/Users/jenifercandidogomes/Desktop/Lista_00/exercicio_2/obj/Debug/net9.0/refint/exercicio_2.dll
+/Users/jenifercandidogomes/Desktop/Lista_00/exercicio_2/obj/Debug/net9.0/exercicio_2.pdb
+/Users/jenifercandidogomes/Desktop/Lista_00/exercicio_2/obj/Debug/net9.0/exercicio_2.genruntimeconfig.cache
+/Users/jenifercandidogomes/Desktop/Lista_00/exercicio_2/obj/Debug/net9.0/ref/exercicio_2.dll
